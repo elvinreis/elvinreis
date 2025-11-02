@@ -6,8 +6,8 @@
 Passionate developer building robust and scalable applications.  
 Skilled in back-end development, with a strong focus on performance, and clean architecture.
 </p>
--->
 ---
+-->
 
 ### Skills
 
