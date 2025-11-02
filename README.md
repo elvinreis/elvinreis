@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 
  **<h3 align="left">🚀 Passionate  developer, creating robust and scalable applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
+<!--
 **<h3 align="left">Rapid Fire</h3>**
-
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
  **<h3 align="left">Skills</h3>**
-
+-->
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
@@ -52,9 +52,5 @@ Here are some ideas to get you started:
   <img width="48%" src="https://streak-stats.demolab.com/?user=sushilmagare10&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sushilmagare10&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
-</p>
 
 
